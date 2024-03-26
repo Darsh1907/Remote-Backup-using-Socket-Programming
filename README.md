@@ -70,9 +70,16 @@ FORMAT = "utf-8"
 `streamlit run client.py`
 
 4. Open the streamlit webpage on the Network URL as shown in the image.
+
 ![image](https://github.com/Darsh1907/Remote-Backup-using-Socket-Programming/assets/118650412/43b4fcf0-d817-4f7a-a3ee-40892b1b4717)
 
 **Tip:** If the streamlit app is not able to work on the network URL or if it fails to upload the file, try disabling the Firewall of both the server machine and client machine. 
+
+5. Once the Client is running, you can use the same network URL to connect other devices to the Backup system. For example: Mobile Devices.
+
+![9ec5bb01-f32d-417f-9a33-1b2380c7cfe3](https://github.com/Darsh1907/Remote-Backup-using-Socket-Programming/assets/118650412/1bf68885-47ed-4133-9559-6278ff7a2b35)
+
+
 
 ## Usage
 
