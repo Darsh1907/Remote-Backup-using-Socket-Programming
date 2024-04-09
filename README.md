@@ -77,8 +77,7 @@ FORMAT = "utf-8"
 
 5. Once the Client is running, you can use the same network URL to connect other devices to the Backup system. For example: Mobile Devices.
 
-![9ec5bb01-f32d-417f-9a33-1b2380c7cfe3](https://github.com/Darsh1907/Remote-Backup-using-Socket-Programming/assets/118650412/1bf68885-47ed-4133-9559-6278ff7a2b35)
-
+![26fafe2e-68c9-427c-91cc-4422e13cc0a1](https://github.com/Darsh1907/Remote-Backup-using-Socket-Programming/assets/118650412/6f3bb08b-82e1-4e2d-b7f1-12754deff4d9)
 
 
 ## Usage
