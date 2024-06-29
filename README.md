@@ -6,7 +6,7 @@ Remote Backup System using Socket Programming in Python
 
 ## Overview
 
-Remote Backup is a simple Python-based system designed to facilitate the automated backup of files from a client machine to a remote server. This project aims to provide users with a straightforward solution for ensuring data safety by automating the backup process.
+Remote Backup is a simple Python-based system designed to facilitate the backup of files from a client machine to a remote server.
 
 ## Features
 
